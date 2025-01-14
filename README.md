@@ -3,6 +3,7 @@
 //Collected by @arjunfiqriadrillah01 menampilkan playlist >>> MOVIES VOD 2024
 //========================================================================
 
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A1d4AQ1JpU3BbpRNOmuOLXVDSyi.jpg",The Man Rebounds (2024)
 https://ss09.tubzde.cc/data/3/674078665d4c5/hls720/674078665d4c5720.m3u8|referer=https://ss09.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
